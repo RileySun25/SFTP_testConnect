@@ -1,0 +1,11 @@
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\bin\Debug\SFTPTEST.exe.config
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\bin\Debug\SFTPTEST.exe
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\bin\Debug\SFTPTEST.pdb
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\obj\Debug\SFTPTEST.csproj.AssemblyReference.cache
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\obj\Debug\SFTPTEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\obj\Debug\SFTPTEST.csproj.CoreCompileInputs.cache
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\obj\Debug\SFTPTEST.exe
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\obj\Debug\SFTPTEST.pdb
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\bin\Debug\Renci.SshNet.dll
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\bin\Debug\Renci.SshNet.xml
+C:\Users\Nelson\Desktop\SFTPTEST\SFTPTEST\obj\Debug\SFTPTEST.csproj.CopyComplete
